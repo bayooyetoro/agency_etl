@@ -1,0 +1,6413 @@
+[
+    {
+        "Country_Name": "South Georgia",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "South Georgia and the South Sandwich Islands",
+        "Common_Native_Name": "South Georgia",
+        "Currency_Code": "SHP",
+        "Currency_Name": "Saint Helena pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+500",
+        "Capital": [
+            "King Edward Point"
+        ],
+        "Region": "Antarctic",
+        "Subregion": null,
+        "Languages": [
+            "English"
+        ],
+        "Area": 3903.0,
+        "Population": 30,
+        "Continents": [
+            "Antarctica"
+        ]
+    },
+    {
+        "Country_Name": "Grenada",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Grenada",
+        "Common_Native_Name": "Grenada",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1473",
+        "Capital": [
+            "St. George's"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 344.0,
+        "Population": 112519,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Switzerland",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Swiss Confederation",
+        "Common_Native_Name": null,
+        "Currency_Code": "CHF",
+        "Currency_Name": "Swiss franc",
+        "Currency_Symbol": "Fr.",
+        "Country_Code": "+41",
+        "Capital": [
+            "Bern"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "French",
+            "Swiss German",
+            "Italian",
+            "Romansh"
+        ],
+        "Area": 41284.0,
+        "Population": 8654622,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Sierra Leone",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Sierra Leone",
+        "Common_Native_Name": "Sierra Leone",
+        "Currency_Code": "SLL",
+        "Currency_Name": "Sierra Leonean leone",
+        "Currency_Symbol": "Le",
+        "Country_Code": "+232",
+        "Capital": [
+            "Freetown"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 71740.0,
+        "Population": 7976985,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Hungary",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Hungary",
+        "Common_Native_Name": null,
+        "Currency_Code": "HUF",
+        "Currency_Name": "Hungarian forint",
+        "Currency_Symbol": "Ft",
+        "Country_Code": "+36",
+        "Capital": [
+            "Budapest"
+        ],
+        "Region": "Europe",
+        "Subregion": "Central Europe",
+        "Languages": [
+            "Hungarian"
+        ],
+        "Area": 93028.0,
+        "Population": 9749763,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Taiwan",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of China (Taiwan)",
+        "Common_Native_Name": null,
+        "Currency_Code": "TWD",
+        "Currency_Name": "New Taiwan dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+886",
+        "Capital": [
+            "Taipei"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Chinese"
+        ],
+        "Area": 36193.0,
+        "Population": 23503349,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Wallis and Futuna",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Territory of the Wallis and Futuna Islands",
+        "Common_Native_Name": null,
+        "Currency_Code": "XPF",
+        "Currency_Name": "CFP franc",
+        "Currency_Symbol": "₣",
+        "Country_Code": "+681",
+        "Capital": [
+            "Mata-Utu"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "French"
+        ],
+        "Area": 142.0,
+        "Population": 11750,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Barbados",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Barbados",
+        "Common_Native_Name": "Barbados",
+        "Currency_Code": "BBD",
+        "Currency_Name": "Barbadian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1246",
+        "Capital": [
+            "Bridgetown"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 430.0,
+        "Population": 287371,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Pitcairn Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Pitcairn Group of Islands",
+        "Common_Native_Name": "Pitcairn Islands",
+        "Currency_Code": "NZD",
+        "Currency_Name": "New Zealand dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+64",
+        "Capital": [
+            "Adamstown"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English"
+        ],
+        "Area": 47.0,
+        "Population": 56,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Ivory Coast",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Côte d'Ivoire",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+225",
+        "Capital": [
+            "Yamoussoukro"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 322463.0,
+        "Population": 26378275,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Tunisia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Tunisian Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "TND",
+        "Currency_Name": "Tunisian dinar",
+        "Currency_Symbol": "د.ت",
+        "Country_Code": "+216",
+        "Capital": [
+            "Tunis"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 163610.0,
+        "Population": 11818618,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Italy",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Italian Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+39",
+        "Capital": [
+            "Rome"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Italian"
+        ],
+        "Area": 301336.0,
+        "Population": 59554023,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Benin",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Benin",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+229",
+        "Capital": [
+            "Porto-Novo"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 112622.0,
+        "Population": 12123198,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Indonesia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Indonesia",
+        "Common_Native_Name": null,
+        "Currency_Code": "IDR",
+        "Currency_Name": "Indonesian rupiah",
+        "Currency_Symbol": "Rp",
+        "Country_Code": "+62",
+        "Capital": [
+            "Jakarta"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Indonesian"
+        ],
+        "Area": 1904569.0,
+        "Population": 273523621,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Cape Verde",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Cabo Verde",
+        "Common_Native_Name": null,
+        "Currency_Code": "CVE",
+        "Currency_Name": "Cape Verdean escudo",
+        "Currency_Symbol": "Esc",
+        "Country_Code": "+238",
+        "Capital": [
+            "Praia"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "Portuguese"
+        ],
+        "Area": 4033.0,
+        "Population": 555988,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Saint Kitts and Nevis",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federation of Saint Christopher and Nevis",
+        "Common_Native_Name": "Saint Kitts and Nevis",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1869",
+        "Capital": [
+            "Basseterre"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 261.0,
+        "Population": 53192,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Laos",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Lao People's Democratic Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "LAK",
+        "Currency_Name": "Lao kip",
+        "Currency_Symbol": "₭",
+        "Country_Code": "+856",
+        "Capital": [
+            "Vientiane"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Lao"
+        ],
+        "Area": 236800.0,
+        "Population": 7275556,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Caribbean Netherlands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bonaire, Sint Eustatius and Saba",
+        "Common_Native_Name": null,
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+599",
+        "Capital": [
+            "Kralendijk"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English",
+            "Dutch",
+            "Papiamento"
+        ],
+        "Area": 328.0,
+        "Population": 25987,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Uganda",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Uganda",
+        "Common_Native_Name": "Uganda",
+        "Currency_Code": "UGX",
+        "Currency_Name": "Ugandan shilling",
+        "Currency_Symbol": "Sh",
+        "Country_Code": "+256",
+        "Capital": [
+            "Kampala"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English",
+            "Swahili"
+        ],
+        "Area": 241550.0,
+        "Population": 45741000,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Andorra",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Principality of Andorra",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+376",
+        "Capital": [
+            "Andorra la Vella"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Catalan"
+        ],
+        "Area": 468.0,
+        "Population": 77265,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Burundi",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Burundi",
+        "Common_Native_Name": null,
+        "Currency_Code": "BIF",
+        "Currency_Name": "Burundian franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+257",
+        "Capital": [
+            "Gitega"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "French",
+            "Kirundi"
+        ],
+        "Area": 27834.0,
+        "Population": 11890781,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "South Africa",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of South Africa",
+        "Common_Native_Name": "South Africa",
+        "Currency_Code": "ZAR",
+        "Currency_Name": "South African rand",
+        "Currency_Symbol": "R",
+        "Country_Code": "+27",
+        "Capital": [
+            "Pretoria",
+            "Bloemfontein",
+            "Cape Town"
+        ],
+        "Region": "Africa",
+        "Subregion": "Southern Africa",
+        "Languages": [
+            "Afrikaans",
+            "English",
+            "Southern Ndebele",
+            "Northern Sotho",
+            "Southern Sotho",
+            "Swazi",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ],
+        "Area": 1221037.0,
+        "Population": 59308690,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "France",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "French Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+33",
+        "Capital": [
+            "Paris"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "French"
+        ],
+        "Area": 551695.0,
+        "Population": 67391582,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Libya",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "State of Libya",
+        "Common_Native_Name": null,
+        "Currency_Code": "LYD",
+        "Currency_Name": "Libyan dinar",
+        "Currency_Symbol": "ل.د",
+        "Country_Code": "+218",
+        "Capital": [
+            "Tripoli"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 1759540.0,
+        "Population": 6871287,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Mexico",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "United Mexican States",
+        "Common_Native_Name": null,
+        "Currency_Code": "MXN",
+        "Currency_Name": "Mexican peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+52",
+        "Capital": [
+            "Mexico City"
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 1964375.0,
+        "Population": 128932753,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Gabon",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Gabonese Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "XAF",
+        "Currency_Name": "Central African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+241",
+        "Capital": [
+            "Libreville"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 267668.0,
+        "Population": 2225728,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Northern Mariana Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Commonwealth of the Northern Mariana Islands",
+        "Common_Native_Name": "Northern Mariana Islands",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1670",
+        "Capital": [
+            "Saipan"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "Carolinian",
+            "Chamorro",
+            "English"
+        ],
+        "Area": 464.0,
+        "Population": 57557,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "North Macedonia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of North Macedonia",
+        "Common_Native_Name": null,
+        "Currency_Code": "MKD",
+        "Currency_Name": "denar",
+        "Currency_Symbol": "den",
+        "Country_Code": "+389",
+        "Capital": [
+            "Skopje"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Macedonian"
+        ],
+        "Area": 25713.0,
+        "Population": 2077132,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "China",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "People's Republic of China",
+        "Common_Native_Name": null,
+        "Currency_Code": "CNY",
+        "Currency_Name": "Chinese yuan",
+        "Currency_Symbol": "¥",
+        "Country_Code": "+86",
+        "Capital": [
+            "Beijing"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Chinese"
+        ],
+        "Area": 9706961.0,
+        "Population": 1402112000,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Yemen",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Republic of Yemen",
+        "Common_Native_Name": null,
+        "Currency_Code": "YER",
+        "Currency_Name": "Yemeni rial",
+        "Currency_Symbol": "﷼",
+        "Country_Code": "+967",
+        "Capital": [
+            "Sana'a"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 527968.0,
+        "Population": 29825968,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Saint Barthélemy",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Collectivity of Saint Barthélemy",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+590",
+        "Capital": [
+            "Gustavia"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "French"
+        ],
+        "Area": 21.0,
+        "Population": 4255,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Guernsey",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bailiwick of Guernsey",
+        "Common_Native_Name": "Guernsey",
+        "Currency_Code": "GBP",
+        "Currency_Name": "British pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+44",
+        "Capital": [
+            "St. Peter Port"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "English",
+            "French",
+            "Guernésiais"
+        ],
+        "Area": 78.0,
+        "Population": 62999,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Solomon Islands",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Solomon Islands",
+        "Common_Native_Name": "Solomon Islands",
+        "Currency_Code": "SBD",
+        "Currency_Name": "Solomon Islands dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+677",
+        "Capital": [
+            "Honiara"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Melanesia",
+        "Languages": [
+            "English"
+        ],
+        "Area": 28896.0,
+        "Population": 686878,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Svalbard and Jan Mayen",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Svalbard og Jan Mayen",
+        "Common_Native_Name": null,
+        "Currency_Code": "NOK",
+        "Currency_Name": "krone",
+        "Currency_Symbol": "kr",
+        "Country_Code": "+4779",
+        "Capital": [
+            "Longyearbyen"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Norwegian"
+        ],
+        "Area": 61399.0,
+        "Population": 2562,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Faroe Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Faroe Islands",
+        "Common_Native_Name": null,
+        "Currency_Code": "DKK",
+        "Currency_Name": "Danish krone",
+        "Currency_Symbol": "kr",
+        "Country_Code": "+298",
+        "Capital": [
+            "Tórshavn"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Danish",
+            "Faroese"
+        ],
+        "Area": 1393.0,
+        "Population": 48865,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Uzbekistan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Uzbekistan",
+        "Common_Native_Name": null,
+        "Currency_Code": "UZS",
+        "Currency_Name": "Uzbekistani soʻm",
+        "Currency_Symbol": "so'm",
+        "Country_Code": "+998",
+        "Capital": [
+            "Tashkent"
+        ],
+        "Region": "Asia",
+        "Subregion": "Central Asia",
+        "Languages": [
+            "Russian",
+            "Uzbek"
+        ],
+        "Area": 447400.0,
+        "Population": 34232050,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Egypt",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Arab Republic of Egypt",
+        "Common_Native_Name": null,
+        "Currency_Code": "EGP",
+        "Currency_Name": "Egyptian pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+20",
+        "Capital": [
+            "Cairo"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 1002450.0,
+        "Population": 102334403,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Senegal",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Senegal",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+221",
+        "Capital": [
+            "Dakar"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 196722.0,
+        "Population": 16743930,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Sri Lanka",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Democratic Socialist Republic of Sri Lanka",
+        "Common_Native_Name": null,
+        "Currency_Code": "LKR",
+        "Currency_Name": "Sri Lankan rupee",
+        "Currency_Symbol": "Rs  රු",
+        "Country_Code": "+94",
+        "Capital": [
+            "Sri Jayawardenepura Kotte"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Sinhala",
+            "Tamil"
+        ],
+        "Area": 65610.0,
+        "Population": 21919000,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Palestine",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "State of Palestine",
+        "Common_Native_Name": null,
+        "Currency_Code": "EGP",
+        "Currency_Name": "Egyptian pound",
+        "Currency_Symbol": "E£",
+        "Country_Code": "+970",
+        "Capital": [
+            "Ramallah",
+            "Jerusalem"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 6220.0,
+        "Population": 4803269,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Bangladesh",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "People's Republic of Bangladesh",
+        "Common_Native_Name": null,
+        "Currency_Code": "BDT",
+        "Currency_Name": "Bangladeshi taka",
+        "Currency_Symbol": "৳",
+        "Country_Code": "+880",
+        "Capital": [
+            "Dhaka"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Bengali"
+        ],
+        "Area": 147570.0,
+        "Population": 164689383,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Peru",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Peru",
+        "Common_Native_Name": null,
+        "Currency_Code": "PEN",
+        "Currency_Name": "Peruvian sol",
+        "Currency_Symbol": "S/ ",
+        "Country_Code": "+51",
+        "Capital": [
+            "Lima"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Aymara",
+            "Quechua",
+            "Spanish"
+        ],
+        "Area": 1285216.0,
+        "Population": 32971846,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Singapore",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Singapore",
+        "Common_Native_Name": "Singapore",
+        "Currency_Code": "SGD",
+        "Currency_Name": "Singapore dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+65",
+        "Capital": [
+            "Singapore"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "English",
+            "Chinese",
+            "Malay",
+            "Tamil"
+        ],
+        "Area": 710.0,
+        "Population": 5685807,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Turkey",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Turkey",
+        "Common_Native_Name": null,
+        "Currency_Code": "TRY",
+        "Currency_Name": "Turkish lira",
+        "Currency_Symbol": "₺",
+        "Country_Code": "+90",
+        "Capital": [
+            "Ankara"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Turkish"
+        ],
+        "Area": 783562.0,
+        "Population": 84339067,
+        "Continents": [
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Afghanistan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Islamic Republic of Afghanistan",
+        "Common_Native_Name": null,
+        "Currency_Code": "AFN",
+        "Currency_Name": "Afghan afghani",
+        "Currency_Symbol": "؋",
+        "Country_Code": "+93",
+        "Capital": [
+            "Kabul"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Dari",
+            "Pashto",
+            "Turkmen"
+        ],
+        "Area": 652230.0,
+        "Population": 40218234,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Aruba",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Aruba",
+        "Common_Native_Name": null,
+        "Currency_Code": "AWG",
+        "Currency_Name": "Aruban florin",
+        "Currency_Symbol": "ƒ",
+        "Country_Code": "+297",
+        "Capital": [
+            "Oranjestad"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "Dutch",
+            "Papiamento"
+        ],
+        "Area": 180.0,
+        "Population": 106766,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Cook Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Cook Islands",
+        "Common_Native_Name": "Cook Islands",
+        "Currency_Code": "CKD",
+        "Currency_Name": "Cook Islands dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+682",
+        "Capital": [
+            "Avarua"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Cook Islands Māori"
+        ],
+        "Area": 236.0,
+        "Population": 18100,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "United Kingdom",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "United Kingdom of Great Britain and Northern Ireland",
+        "Common_Native_Name": "United Kingdom",
+        "Currency_Code": "GBP",
+        "Currency_Name": "British pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+44",
+        "Capital": [
+            "London"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "English"
+        ],
+        "Area": 242900.0,
+        "Population": 67215293,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Zambia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Zambia",
+        "Common_Native_Name": "Zambia",
+        "Currency_Code": "ZMW",
+        "Currency_Name": "Zambian kwacha",
+        "Currency_Symbol": "ZK",
+        "Country_Code": "+260",
+        "Capital": [
+            "Lusaka"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 752612.0,
+        "Population": 18383956,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Finland",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Finland",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+358",
+        "Capital": [
+            "Helsinki"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Finnish",
+            "Swedish"
+        ],
+        "Area": 338424.0,
+        "Population": 5530719,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Niger",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Niger",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+227",
+        "Capital": [
+            "Niamey"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 1267000.0,
+        "Population": 24206636,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Christmas Island",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Territory of Christmas Island",
+        "Common_Native_Name": "Christmas Island",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+61",
+        "Capital": [
+            "Flying Fish Cove"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Australia and New Zealand",
+        "Languages": [
+            "English"
+        ],
+        "Area": 135.0,
+        "Population": 2072,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Tokelau",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Tokelau",
+        "Common_Native_Name": "Tokelau",
+        "Currency_Code": "NZD",
+        "Currency_Name": "New Zealand dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+690",
+        "Capital": [
+            "Fakaofo"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Samoan",
+            "Tokelauan"
+        ],
+        "Area": 12.0,
+        "Population": 1411,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Guinea-Bissau",
+        "Independence": true,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Guinea-Bissau",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+245",
+        "Capital": [
+            "Bissau"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "Portuguese",
+            "Upper Guinea Creole"
+        ],
+        "Area": 36125.0,
+        "Population": 1967998,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Azerbaijan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Azerbaijan",
+        "Common_Native_Name": null,
+        "Currency_Code": "AZN",
+        "Currency_Name": "Azerbaijani manat",
+        "Currency_Symbol": "₼",
+        "Country_Code": "+994",
+        "Capital": [
+            "Baku"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Azerbaijani"
+        ],
+        "Area": 86600.0,
+        "Population": 10110116,
+        "Continents": [
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Réunion",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Réunion Island",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+262",
+        "Capital": [
+            "Saint-Denis"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 2511.0,
+        "Population": 840974,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Djibouti",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Djibouti",
+        "Common_Native_Name": null,
+        "Currency_Code": "DJF",
+        "Currency_Name": "Djiboutian franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+253",
+        "Capital": [
+            "Djibouti"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Arabic",
+            "French"
+        ],
+        "Area": 23200.0,
+        "Population": 988002,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "North Korea",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Democratic People's Republic of Korea",
+        "Common_Native_Name": null,
+        "Currency_Code": "KPW",
+        "Currency_Name": "North Korean won",
+        "Currency_Symbol": "₩",
+        "Country_Code": "+850",
+        "Capital": [
+            "Pyongyang"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Korean"
+        ],
+        "Area": 120538.0,
+        "Population": 25778815,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Mauritius",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Mauritius",
+        "Common_Native_Name": "Mauritius",
+        "Currency_Code": "MUR",
+        "Currency_Name": "Mauritian rupee",
+        "Currency_Symbol": "₨",
+        "Country_Code": "+230",
+        "Capital": [
+            "Port Louis"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English",
+            "French",
+            "Mauritian Creole"
+        ],
+        "Area": 2040.0,
+        "Population": 1265740,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Montserrat",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Montserrat",
+        "Common_Native_Name": "Montserrat",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1664",
+        "Capital": [
+            "Plymouth"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 102.0,
+        "Population": 4922,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "United States Virgin Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Virgin Islands of the United States",
+        "Common_Native_Name": "United States Virgin Islands",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1340",
+        "Capital": [
+            "Charlotte Amalie"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 347.0,
+        "Population": 106290,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Colombia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Colombia",
+        "Common_Native_Name": null,
+        "Currency_Code": "COP",
+        "Currency_Name": "Colombian peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+57",
+        "Capital": [
+            "Bogotá"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 1141748.0,
+        "Population": 50882884,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Greece",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Hellenic Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+30",
+        "Capital": [
+            "Athens"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Greek"
+        ],
+        "Area": 131990.0,
+        "Population": 10715549,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Croatia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Croatia",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+385",
+        "Capital": [
+            "Zagreb"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Croatian"
+        ],
+        "Area": 56594.0,
+        "Population": 4047200,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Morocco",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Morocco",
+        "Common_Native_Name": null,
+        "Currency_Code": "MAD",
+        "Currency_Name": "Moroccan dirham",
+        "Currency_Symbol": "د.م.",
+        "Country_Code": "+212",
+        "Capital": [
+            "Rabat"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Arabic",
+            "Berber"
+        ],
+        "Area": 446550.0,
+        "Population": 36910558,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Algeria",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "People's Democratic Republic of Algeria",
+        "Common_Native_Name": null,
+        "Currency_Code": "DZD",
+        "Currency_Name": "Algerian dinar",
+        "Currency_Symbol": "د.ج",
+        "Country_Code": "+213",
+        "Capital": [
+            "Algiers"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 2381741.0,
+        "Population": 44700000,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Antarctica",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Antarctica",
+        "Common_Native_Name": null,
+        "Currency_Code": null,
+        "Currency_Name": null,
+        "Currency_Symbol": null,
+        "Country_Code": "",
+        "Capital": null,
+        "Region": "Antarctic",
+        "Subregion": null,
+        "Languages": [],
+        "Area": 14000000.0,
+        "Population": 1000,
+        "Continents": [
+            "Antarctica"
+        ]
+    },
+    {
+        "Country_Name": "Netherlands",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of the Netherlands",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+31",
+        "Capital": [
+            "Amsterdam"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "Dutch"
+        ],
+        "Area": 41850.0,
+        "Population": 16655799,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Sudan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of the Sudan",
+        "Common_Native_Name": "Sudan",
+        "Currency_Code": "SDG",
+        "Currency_Name": "Sudanese pound",
+        "Currency_Symbol": "ج.س",
+        "Country_Code": "+249",
+        "Capital": [
+            "Khartoum"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Arabic",
+            "English"
+        ],
+        "Area": 1886068.0,
+        "Population": 43849269,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Fiji",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Fiji",
+        "Common_Native_Name": "Fiji",
+        "Currency_Code": "FJD",
+        "Currency_Name": "Fijian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+679",
+        "Capital": [
+            "Suva"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Melanesia",
+        "Languages": [
+            "English",
+            "Fijian",
+            "Fiji Hindi"
+        ],
+        "Area": 18272.0,
+        "Population": 896444,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Liechtenstein",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Principality of Liechtenstein",
+        "Common_Native_Name": null,
+        "Currency_Code": "CHF",
+        "Currency_Name": "Swiss franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+423",
+        "Capital": [
+            "Vaduz"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "German"
+        ],
+        "Area": 160.0,
+        "Population": 38137,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Nepal",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Federal Democratic Republic of Nepal",
+        "Common_Native_Name": null,
+        "Currency_Code": "NPR",
+        "Currency_Name": "Nepalese rupee",
+        "Currency_Symbol": "₨",
+        "Country_Code": "+977",
+        "Capital": [
+            "Kathmandu"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Nepali"
+        ],
+        "Area": 147181.0,
+        "Population": 29136808,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Puerto Rico",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Commonwealth of Puerto Rico",
+        "Common_Native_Name": "Puerto Rico",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1787939",
+        "Capital": [
+            "San Juan"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English",
+            "Spanish"
+        ],
+        "Area": 8870.0,
+        "Population": 3194034,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Georgia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Georgia",
+        "Common_Native_Name": null,
+        "Currency_Code": "GEL",
+        "Currency_Name": "lari",
+        "Currency_Symbol": "₾",
+        "Country_Code": "+995",
+        "Capital": [
+            "Tbilisi"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Georgian"
+        ],
+        "Area": 69700.0,
+        "Population": 3714000,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Pakistan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Islamic Republic of Pakistan",
+        "Common_Native_Name": "Pakistan",
+        "Currency_Code": "PKR",
+        "Currency_Name": "Pakistani rupee",
+        "Currency_Symbol": "₨",
+        "Country_Code": "+92",
+        "Capital": [
+            "Islamabad"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "English",
+            "Urdu"
+        ],
+        "Area": 881912.0,
+        "Population": 220892331,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Monaco",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Principality of Monaco",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+377",
+        "Capital": [
+            "Monaco"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "French"
+        ],
+        "Area": 2.02,
+        "Population": 39244,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Botswana",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Botswana",
+        "Common_Native_Name": "Botswana",
+        "Currency_Code": "BWP",
+        "Currency_Name": "Botswana pula",
+        "Currency_Symbol": "P",
+        "Country_Code": "+267",
+        "Capital": [
+            "Gaborone"
+        ],
+        "Region": "Africa",
+        "Subregion": "Southern Africa",
+        "Languages": [
+            "English",
+            "Tswana"
+        ],
+        "Area": 582000.0,
+        "Population": 2351625,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Lebanon",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Lebanese Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "LBP",
+        "Currency_Name": "Lebanese pound",
+        "Currency_Symbol": "ل.ل",
+        "Country_Code": "+961",
+        "Capital": [
+            "Beirut"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic",
+            "French"
+        ],
+        "Area": 10452.0,
+        "Population": 6825442,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Papua New Guinea",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Independent State of Papua New Guinea",
+        "Common_Native_Name": "Papua New Guinea",
+        "Currency_Code": "PGK",
+        "Currency_Name": "Papua New Guinean kina",
+        "Currency_Symbol": "K",
+        "Country_Code": "+675",
+        "Capital": [
+            "Port Moresby"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Melanesia",
+        "Languages": [
+            "English",
+            "Hiri Motu",
+            "Tok Pisin"
+        ],
+        "Area": 462840.0,
+        "Population": 8947027,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Mayotte",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Department of Mayotte",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+262",
+        "Capital": [
+            "Mamoudzou"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 374.0,
+        "Population": 226915,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Dominican Republic",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Dominican Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "DOP",
+        "Currency_Name": "Dominican peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1809829849",
+        "Capital": [
+            "Santo Domingo"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 48671.0,
+        "Population": 10847904,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Norfolk Island",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Territory of Norfolk Island",
+        "Common_Native_Name": "Norfolk Island",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+672",
+        "Capital": [
+            "Kingston"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Australia and New Zealand",
+        "Languages": [
+            "English",
+            "Norfuk"
+        ],
+        "Area": 36.0,
+        "Population": 2302,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Bouvet Island",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bouvet Island",
+        "Common_Native_Name": null,
+        "Currency_Code": null,
+        "Currency_Name": null,
+        "Currency_Symbol": null,
+        "Country_Code": "+47",
+        "Capital": null,
+        "Region": "Antarctic",
+        "Subregion": null,
+        "Languages": [
+            "Norwegian"
+        ],
+        "Area": 49.0,
+        "Population": 0,
+        "Continents": [
+            "Antarctica"
+        ]
+    },
+    {
+        "Country_Name": "Qatar",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "State of Qatar",
+        "Common_Native_Name": null,
+        "Currency_Code": "QAR",
+        "Currency_Name": "Qatari riyal",
+        "Currency_Symbol": "ر.ق",
+        "Country_Code": "+974",
+        "Capital": [
+            "Doha"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 11586.0,
+        "Population": 2881060,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Madagascar",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Madagascar",
+        "Common_Native_Name": null,
+        "Currency_Code": "MGA",
+        "Currency_Name": "Malagasy ariary",
+        "Currency_Symbol": "Ar",
+        "Country_Code": "+261",
+        "Capital": [
+            "Antananarivo"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "French",
+            "Malagasy"
+        ],
+        "Area": 587041.0,
+        "Population": 27691019,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "India",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of India",
+        "Common_Native_Name": "India",
+        "Currency_Code": "INR",
+        "Currency_Name": "Indian rupee",
+        "Currency_Symbol": "₹",
+        "Country_Code": "+91",
+        "Capital": [
+            "New Delhi"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "English",
+            "Hindi",
+            "Tamil"
+        ],
+        "Area": 3287590.0,
+        "Population": 1380004385,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Syria",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Syrian Arab Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "SYP",
+        "Currency_Name": "Syrian pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+963",
+        "Capital": [
+            "Damascus"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 185180.0,
+        "Population": 17500657,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Montenegro",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Montenegro",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+382",
+        "Capital": [
+            "Podgorica"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Montenegrin"
+        ],
+        "Area": 13812.0,
+        "Population": 621718,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Eswatini",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Eswatini",
+        "Common_Native_Name": "Eswatini",
+        "Currency_Code": "SZL",
+        "Currency_Name": "Swazi lilangeni",
+        "Currency_Symbol": "L",
+        "Country_Code": "+268",
+        "Capital": [
+            "Mbabane"
+        ],
+        "Region": "Africa",
+        "Subregion": "Southern Africa",
+        "Languages": [
+            "English",
+            "Swazi"
+        ],
+        "Area": 17364.0,
+        "Population": 1160164,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Paraguay",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Paraguay",
+        "Common_Native_Name": null,
+        "Currency_Code": "PYG",
+        "Currency_Name": "Paraguayan guaraní",
+        "Currency_Symbol": "₲",
+        "Country_Code": "+595",
+        "Capital": [
+            "Asunción"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Guaraní",
+            "Spanish"
+        ],
+        "Area": 406752.0,
+        "Population": 7132530,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "El Salvador",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of El Salvador",
+        "Common_Native_Name": null,
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+503",
+        "Capital": [
+            "San Salvador"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 21041.0,
+        "Population": 6486201,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Ukraine",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Ukraine",
+        "Common_Native_Name": null,
+        "Currency_Code": "UAH",
+        "Currency_Name": "Ukrainian hryvnia",
+        "Currency_Symbol": "₴",
+        "Country_Code": "+380",
+        "Capital": [
+            "Kyiv"
+        ],
+        "Region": "Europe",
+        "Subregion": "Eastern Europe",
+        "Languages": [
+            "Ukrainian"
+        ],
+        "Area": 603500.0,
+        "Population": 44134693,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Isle of Man",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Isle of Man",
+        "Common_Native_Name": "Isle of Man",
+        "Currency_Code": "GBP",
+        "Currency_Name": "British pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+44",
+        "Capital": [
+            "Douglas"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "English",
+            "Manx"
+        ],
+        "Area": 572.0,
+        "Population": 85032,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Namibia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Namibia",
+        "Common_Native_Name": "Namibia",
+        "Currency_Code": "NAD",
+        "Currency_Name": "Namibian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+264",
+        "Capital": [
+            "Windhoek"
+        ],
+        "Region": "Africa",
+        "Subregion": "Southern Africa",
+        "Languages": [
+            "Afrikaans",
+            "German",
+            "English",
+            "Herero",
+            "Khoekhoe",
+            "Kwangali",
+            "Lozi",
+            "Ndonga",
+            "Tswana"
+        ],
+        "Area": 825615.0,
+        "Population": 2540916,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "United Arab Emirates",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "United Arab Emirates",
+        "Common_Native_Name": null,
+        "Currency_Code": "AED",
+        "Currency_Name": "United Arab Emirates dirham",
+        "Currency_Symbol": "د.إ",
+        "Country_Code": "+971",
+        "Capital": [
+            "Abu Dhabi"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 83600.0,
+        "Population": 9890400,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Bulgaria",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Bulgaria",
+        "Common_Native_Name": null,
+        "Currency_Code": "BGN",
+        "Currency_Name": "Bulgarian lev",
+        "Currency_Symbol": "лв",
+        "Country_Code": "+359",
+        "Capital": [
+            "Sofia"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Bulgarian"
+        ],
+        "Area": 110879.0,
+        "Population": 6927288,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Greenland",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Greenland",
+        "Common_Native_Name": null,
+        "Currency_Code": "DKK",
+        "Currency_Name": "krone",
+        "Currency_Symbol": "kr.",
+        "Country_Code": "+299",
+        "Capital": [
+            "Nuuk"
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "Greenlandic"
+        ],
+        "Area": 2166086.0,
+        "Population": 56367,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Germany",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federal Republic of Germany",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+49",
+        "Capital": [
+            "Berlin"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "German"
+        ],
+        "Area": 357114.0,
+        "Population": 83240525,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Cambodia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Cambodia",
+        "Common_Native_Name": null,
+        "Currency_Code": "KHR",
+        "Currency_Name": "Cambodian riel",
+        "Currency_Symbol": "៛",
+        "Country_Code": "+855",
+        "Capital": [
+            "Phnom Penh"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Khmer"
+        ],
+        "Area": 181035.0,
+        "Population": 16718971,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Iraq",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Republic of Iraq",
+        "Common_Native_Name": null,
+        "Currency_Code": "IQD",
+        "Currency_Name": "Iraqi dinar",
+        "Currency_Symbol": "ع.د",
+        "Country_Code": "+964",
+        "Capital": [
+            "Baghdad"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic",
+            "Aramaic",
+            "Sorani"
+        ],
+        "Area": 438317.0,
+        "Population": 40222503,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "French Southern and Antarctic Lands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Territory of the French Southern and Antarctic Lands",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+262",
+        "Capital": [
+            "Port-aux-Français"
+        ],
+        "Region": "Antarctic",
+        "Subregion": null,
+        "Languages": [
+            "French"
+        ],
+        "Area": 7747.0,
+        "Population": 400,
+        "Continents": [
+            "Antarctica"
+        ]
+    },
+    {
+        "Country_Name": "Sweden",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Sweden",
+        "Common_Native_Name": null,
+        "Currency_Code": "SEK",
+        "Currency_Name": "Swedish krona",
+        "Currency_Symbol": "kr",
+        "Country_Code": "+46",
+        "Capital": [
+            "Stockholm"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Swedish"
+        ],
+        "Area": 450295.0,
+        "Population": 10353442,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Cuba",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Cuba",
+        "Common_Native_Name": null,
+        "Currency_Code": "CUC",
+        "Currency_Name": "Cuban convertible peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+53",
+        "Capital": [
+            "Havana"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 109884.0,
+        "Population": 11326616,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Kyrgyzstan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kyrgyz Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "KGS",
+        "Currency_Name": "Kyrgyzstani som",
+        "Currency_Symbol": "с",
+        "Country_Code": "+996",
+        "Capital": [
+            "Bishkek"
+        ],
+        "Region": "Asia",
+        "Subregion": "Central Asia",
+        "Languages": [
+            "Kyrgyz",
+            "Russian"
+        ],
+        "Area": 199951.0,
+        "Population": 6591600,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Russia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Russian Federation",
+        "Common_Native_Name": null,
+        "Currency_Code": "RUB",
+        "Currency_Name": "Russian ruble",
+        "Currency_Symbol": "₽",
+        "Country_Code": "+734589",
+        "Capital": [
+            "Moscow"
+        ],
+        "Region": "Europe",
+        "Subregion": "Eastern Europe",
+        "Languages": [
+            "Russian"
+        ],
+        "Area": 17098242.0,
+        "Population": 144104080,
+        "Continents": [
+            "Europe",
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Malaysia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Malaysia",
+        "Common_Native_Name": "Malaysia",
+        "Currency_Code": "MYR",
+        "Currency_Name": "Malaysian ringgit",
+        "Currency_Symbol": "RM",
+        "Country_Code": "+60",
+        "Capital": [
+            "Kuala Lumpur"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "English",
+            "Malay"
+        ],
+        "Area": 330803.0,
+        "Population": 32365998,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "São Tomé and Príncipe",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Democratic Republic of São Tomé and Príncipe",
+        "Common_Native_Name": null,
+        "Currency_Code": "STN",
+        "Currency_Name": "São Tomé and Príncipe dobra",
+        "Currency_Symbol": "Db",
+        "Country_Code": "+239",
+        "Capital": [
+            "São Tomé"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "Portuguese"
+        ],
+        "Area": 964.0,
+        "Population": 219161,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Cyprus",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Cyprus",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+357",
+        "Capital": [
+            "Nicosia"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Greek",
+            "Turkish"
+        ],
+        "Area": 9251.0,
+        "Population": 1207361,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Canada",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Canada",
+        "Common_Native_Name": "Canada",
+        "Currency_Code": "CAD",
+        "Currency_Name": "Canadian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1",
+        "Capital": [
+            "Ottawa"
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "English",
+            "French"
+        ],
+        "Area": 9984670.0,
+        "Population": 38005238,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Malawi",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Malawi",
+        "Common_Native_Name": "Malawi",
+        "Currency_Code": "MWK",
+        "Currency_Name": "Malawian kwacha",
+        "Currency_Symbol": "MK",
+        "Country_Code": "+265",
+        "Capital": [
+            "Lilongwe"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English",
+            "Chewa"
+        ],
+        "Area": 118484.0,
+        "Population": 19129955,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Saudi Arabia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Kingdom of Saudi Arabia",
+        "Common_Native_Name": null,
+        "Currency_Code": "SAR",
+        "Currency_Name": "Saudi riyal",
+        "Currency_Symbol": "ر.س",
+        "Country_Code": "+966",
+        "Capital": [
+            "Riyadh"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 2149690.0,
+        "Population": 34813867,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Bosnia and Herzegovina",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bosnia and Herzegovina",
+        "Common_Native_Name": null,
+        "Currency_Code": "BAM",
+        "Currency_Name": "Bosnia and Herzegovina convertible mark",
+        "Currency_Symbol": "KM",
+        "Country_Code": "+387",
+        "Capital": [
+            "Sarajevo"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ],
+        "Area": 51209.0,
+        "Population": 3280815,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Ethiopia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federal Democratic Republic of Ethiopia",
+        "Common_Native_Name": null,
+        "Currency_Code": "ETB",
+        "Currency_Name": "Ethiopian birr",
+        "Currency_Symbol": "Br",
+        "Country_Code": "+251",
+        "Capital": [
+            "Addis Ababa"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Amharic"
+        ],
+        "Area": 1104300.0,
+        "Population": 114963583,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Spain",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Spain",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+34",
+        "Capital": [
+            "Madrid"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Spanish",
+            "Catalan",
+            "Basque",
+            "Galician"
+        ],
+        "Area": 505992.0,
+        "Population": 47351567,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Slovenia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Slovenia",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+386",
+        "Capital": [
+            "Ljubljana"
+        ],
+        "Region": "Europe",
+        "Subregion": "Central Europe",
+        "Languages": [
+            "Slovene"
+        ],
+        "Area": 20273.0,
+        "Population": 2100126,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Oman",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Sultanate of Oman",
+        "Common_Native_Name": null,
+        "Currency_Code": "OMR",
+        "Currency_Name": "Omani rial",
+        "Currency_Symbol": "ر.ع.",
+        "Country_Code": "+968",
+        "Capital": [
+            "Muscat"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 309500.0,
+        "Population": 5106622,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Saint Pierre and Miquelon",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Saint Pierre and Miquelon",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+508",
+        "Capital": [
+            "Saint-Pierre"
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "French"
+        ],
+        "Area": 242.0,
+        "Population": 6069,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Macau",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Macao Special Administrative Region of the People's Republic of China",
+        "Common_Native_Name": null,
+        "Currency_Code": "MOP",
+        "Currency_Name": "Macanese pataca",
+        "Currency_Symbol": "P",
+        "Country_Code": "+853",
+        "Capital": null,
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Portuguese",
+            "Chinese"
+        ],
+        "Area": 30.0,
+        "Population": 649342,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "San Marino",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of San Marino",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+378",
+        "Capital": [
+            "City of San Marino"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Italian"
+        ],
+        "Area": 61.0,
+        "Population": 33938,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Lesotho",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Lesotho",
+        "Common_Native_Name": "Lesotho",
+        "Currency_Code": "LSL",
+        "Currency_Name": "Lesotho loti",
+        "Currency_Symbol": "L",
+        "Country_Code": "+266",
+        "Capital": [
+            "Maseru"
+        ],
+        "Region": "Africa",
+        "Subregion": "Southern Africa",
+        "Languages": [
+            "English",
+            "Sotho"
+        ],
+        "Area": 30355.0,
+        "Population": 2142252,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Marshall Islands",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of the Marshall Islands",
+        "Common_Native_Name": "Marshall Islands",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+692",
+        "Capital": [
+            "Majuro"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "English",
+            "Marshallese"
+        ],
+        "Area": 181.0,
+        "Population": 59194,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Sint Maarten",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Sint Maarten",
+        "Common_Native_Name": "Sint Maarten",
+        "Currency_Code": "ANG",
+        "Currency_Name": "Netherlands Antillean guilder",
+        "Currency_Symbol": "ƒ",
+        "Country_Code": "+1721",
+        "Capital": [
+            "Philipsburg"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English",
+            "French",
+            "Dutch"
+        ],
+        "Area": 34.0,
+        "Population": 40812,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Iceland",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Iceland",
+        "Common_Native_Name": null,
+        "Currency_Code": "ISK",
+        "Currency_Name": "Icelandic króna",
+        "Currency_Symbol": "kr",
+        "Country_Code": "+354",
+        "Capital": [
+            "Reykjavik"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Icelandic"
+        ],
+        "Area": 103000.0,
+        "Population": 366425,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Luxembourg",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Grand Duchy of Luxembourg",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+352",
+        "Capital": [
+            "Luxembourg"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "German",
+            "French",
+            "Luxembourgish"
+        ],
+        "Area": 2586.0,
+        "Population": 632275,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Argentina",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Argentine Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "ARS",
+        "Currency_Name": "Argentine peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+54",
+        "Capital": [
+            "Buenos Aires"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Guaraní",
+            "Spanish"
+        ],
+        "Area": 2780400.0,
+        "Population": 45376763,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Turks and Caicos Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Turks and Caicos Islands",
+        "Common_Native_Name": "Turks and Caicos Islands",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1649",
+        "Capital": [
+            "Cockburn Town"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 948.0,
+        "Population": 38718,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Nauru",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Nauru",
+        "Common_Native_Name": "Nauru",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+674",
+        "Capital": [
+            "Yaren"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "English",
+            "Nauru"
+        ],
+        "Area": 21.0,
+        "Population": 10834,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Cocos (Keeling) Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Territory of the Cocos (Keeling) Islands",
+        "Common_Native_Name": "Cocos (Keeling) Islands",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+61",
+        "Capital": [
+            "West Island"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Australia and New Zealand",
+        "Languages": [
+            "English"
+        ],
+        "Area": 14.0,
+        "Population": 544,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Western Sahara",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Sahrawi Arab Democratic Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "DZD",
+        "Currency_Name": "Algerian dinar",
+        "Currency_Symbol": "دج",
+        "Country_Code": "+2125288125289",
+        "Capital": [
+            "El Aaiún"
+        ],
+        "Region": "Africa",
+        "Subregion": "Northern Africa",
+        "Languages": [
+            "Berber",
+            "Hassaniya",
+            "Spanish"
+        ],
+        "Area": 266000.0,
+        "Population": 510713,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Dominica",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Commonwealth of Dominica",
+        "Common_Native_Name": "Dominica",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1767",
+        "Capital": [
+            "Roseau"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 751.0,
+        "Population": 71991,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Costa Rica",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Costa Rica",
+        "Common_Native_Name": null,
+        "Currency_Code": "CRC",
+        "Currency_Name": "Costa Rican colón",
+        "Currency_Symbol": "₡",
+        "Country_Code": "+506",
+        "Capital": [
+            "San José"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 51100.0,
+        "Population": 5094114,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Australia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Commonwealth of Australia",
+        "Common_Native_Name": "Australia",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+61",
+        "Capital": [
+            "Canberra"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Australia and New Zealand",
+        "Languages": [
+            "English"
+        ],
+        "Area": 7692024.0,
+        "Population": 25687041,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Thailand",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Thailand",
+        "Common_Native_Name": null,
+        "Currency_Code": "THB",
+        "Currency_Name": "Thai baht",
+        "Currency_Symbol": "฿",
+        "Country_Code": "+66",
+        "Capital": [
+            "Bangkok"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Thai"
+        ],
+        "Area": 513120.0,
+        "Population": 69799978,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Haiti",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Haiti",
+        "Common_Native_Name": null,
+        "Currency_Code": "HTG",
+        "Currency_Name": "Haitian gourde",
+        "Currency_Symbol": "G",
+        "Country_Code": "+509",
+        "Capital": [
+            "Port-au-Prince"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "French",
+            "Haitian Creole"
+        ],
+        "Area": 27750.0,
+        "Population": 11402533,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Tuvalu",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Tuvalu",
+        "Common_Native_Name": "Tuvalu",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+688",
+        "Capital": [
+            "Funafuti"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Tuvaluan"
+        ],
+        "Area": 26.0,
+        "Population": 11792,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Honduras",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Honduras",
+        "Common_Native_Name": null,
+        "Currency_Code": "HNL",
+        "Currency_Name": "Honduran lempira",
+        "Currency_Symbol": "L",
+        "Country_Code": "+504",
+        "Capital": [
+            "Tegucigalpa"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 112492.0,
+        "Population": 9904608,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Equatorial Guinea",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Equatorial Guinea",
+        "Common_Native_Name": null,
+        "Currency_Code": "XAF",
+        "Currency_Name": "Central African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+240",
+        "Capital": [
+            "Malabo"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "French",
+            "Portuguese",
+            "Spanish"
+        ],
+        "Area": 28051.0,
+        "Population": 1402985,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Saint Lucia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Saint Lucia",
+        "Common_Native_Name": "Saint Lucia",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1758",
+        "Capital": [
+            "Castries"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 616.0,
+        "Population": 183629,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "French Polynesia",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "French Polynesia",
+        "Common_Native_Name": null,
+        "Currency_Code": "XPF",
+        "Currency_Name": "CFP franc",
+        "Currency_Symbol": "₣",
+        "Country_Code": "+689",
+        "Capital": [
+            "Papeetē"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "French"
+        ],
+        "Area": 4167.0,
+        "Population": 280904,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Belarus",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Belarus",
+        "Common_Native_Name": null,
+        "Currency_Code": "BYN",
+        "Currency_Name": "Belarusian ruble",
+        "Currency_Symbol": "Br",
+        "Country_Code": "+375",
+        "Capital": [
+            "Minsk"
+        ],
+        "Region": "Europe",
+        "Subregion": "Eastern Europe",
+        "Languages": [
+            "Belarusian",
+            "Russian"
+        ],
+        "Area": 207600.0,
+        "Population": 9398861,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Latvia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Latvia",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+371",
+        "Capital": [
+            "Riga"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Latvian"
+        ],
+        "Area": 64559.0,
+        "Population": 1901548,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Palau",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Palau",
+        "Common_Native_Name": "Palau",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+680",
+        "Capital": [
+            "Ngerulmud"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "English",
+            "Palauan"
+        ],
+        "Area": 459.0,
+        "Population": 18092,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Guadeloupe",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Guadeloupe",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+590",
+        "Capital": [
+            "Basse-Terre"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "French"
+        ],
+        "Area": 1628.0,
+        "Population": 400132,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Philippines",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of the Philippines",
+        "Common_Native_Name": "Philippines",
+        "Currency_Code": "PHP",
+        "Currency_Name": "Philippine peso",
+        "Currency_Symbol": "₱",
+        "Country_Code": "+63",
+        "Capital": [
+            "Manila"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "English",
+            "Filipino"
+        ],
+        "Area": 342353.0,
+        "Population": 109581085,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Gibraltar",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Gibraltar",
+        "Common_Native_Name": "Gibraltar",
+        "Currency_Code": "GIP",
+        "Currency_Name": "Gibraltar pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+350",
+        "Capital": [
+            "Gibraltar"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "English"
+        ],
+        "Area": 6.0,
+        "Population": 33691,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Denmark",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Denmark",
+        "Common_Native_Name": null,
+        "Currency_Code": "DKK",
+        "Currency_Name": "Danish krone",
+        "Currency_Symbol": "kr",
+        "Country_Code": "+45",
+        "Capital": [
+            "Copenhagen"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Danish"
+        ],
+        "Area": 43094.0,
+        "Population": 5831404,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Cameroon",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Cameroon",
+        "Common_Native_Name": "Cameroon",
+        "Currency_Code": "XAF",
+        "Currency_Name": "Central African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+237",
+        "Capital": [
+            "Yaoundé"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "English",
+            "French"
+        ],
+        "Area": 475442.0,
+        "Population": 26545864,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Guinea",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Guinea",
+        "Common_Native_Name": null,
+        "Currency_Code": "GNF",
+        "Currency_Name": "Guinean franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+224",
+        "Capital": [
+            "Conakry"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 245857.0,
+        "Population": 13132792,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Bahrain",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Bahrain",
+        "Common_Native_Name": null,
+        "Currency_Code": "BHD",
+        "Currency_Name": "Bahraini dinar",
+        "Currency_Symbol": ".د.ب",
+        "Country_Code": "+973",
+        "Capital": [
+            "Manama"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 765.0,
+        "Population": 1701583,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Suriname",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Suriname",
+        "Common_Native_Name": null,
+        "Currency_Code": "SRD",
+        "Currency_Name": "Surinamese dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+597",
+        "Capital": [
+            "Paramaribo"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Dutch"
+        ],
+        "Area": 163820.0,
+        "Population": 586634,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "DR Congo",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Democratic Republic of the Congo",
+        "Common_Native_Name": null,
+        "Currency_Code": "CDF",
+        "Currency_Name": "Congolese franc",
+        "Currency_Symbol": "FC",
+        "Country_Code": "+243",
+        "Capital": [
+            "Kinshasa"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "French",
+            "Kikongo",
+            "Lingala",
+            "Tshiluba",
+            "Swahili"
+        ],
+        "Area": 2344858.0,
+        "Population": 108407721,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Somalia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federal Republic of Somalia",
+        "Common_Native_Name": null,
+        "Currency_Code": "SOS",
+        "Currency_Name": "Somali shilling",
+        "Currency_Symbol": "Sh",
+        "Country_Code": "+252",
+        "Capital": [
+            "Mogadishu"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Arabic",
+            "Somali"
+        ],
+        "Area": 637657.0,
+        "Population": 15893219,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Czechia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Czech Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "CZK",
+        "Currency_Name": "Czech koruna",
+        "Currency_Symbol": "Kč",
+        "Country_Code": "+420",
+        "Capital": [
+            "Prague"
+        ],
+        "Region": "Europe",
+        "Subregion": "Central Europe",
+        "Languages": [
+            "Czech",
+            "Slovak"
+        ],
+        "Area": 78865.0,
+        "Population": 10698896,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "New Caledonia",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "New Caledonia",
+        "Common_Native_Name": null,
+        "Currency_Code": "XPF",
+        "Currency_Name": "CFP franc",
+        "Currency_Symbol": "₣",
+        "Country_Code": "+687",
+        "Capital": [
+            "Nouméa"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Melanesia",
+        "Languages": [
+            "French"
+        ],
+        "Area": 18575.0,
+        "Population": 271960,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Vanuatu",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Vanuatu",
+        "Common_Native_Name": "Vanuatu",
+        "Currency_Code": "VUV",
+        "Currency_Name": "Vanuatu vatu",
+        "Currency_Symbol": "Vt",
+        "Country_Code": "+678",
+        "Capital": [
+            "Port Vila"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Melanesia",
+        "Languages": [
+            "Bislama",
+            "English",
+            "French"
+        ],
+        "Area": 12189.0,
+        "Population": 307150,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Saint Helena, Ascension and Tristan da Cunha",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Saint Helena, Ascension and Tristan da Cunha",
+        "Common_Native_Name": "Saint Helena, Ascension and Tristan da Cunha",
+        "Currency_Code": "GBP",
+        "Currency_Name": "Pound sterling",
+        "Currency_Symbol": "£",
+        "Country_Code": "+29047",
+        "Capital": [
+            "Jamestown"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 394.0,
+        "Population": 53192,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Togo",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Togolese Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+228",
+        "Capital": [
+            "Lomé"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 56785.0,
+        "Population": 8278737,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "British Virgin Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Virgin Islands",
+        "Common_Native_Name": "British Virgin Islands",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1284",
+        "Capital": [
+            "Road Town"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 151.0,
+        "Population": 30237,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Kenya",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Kenya",
+        "Common_Native_Name": "Kenya",
+        "Currency_Code": "KES",
+        "Currency_Name": "Kenyan shilling",
+        "Currency_Symbol": "Sh",
+        "Country_Code": "+254",
+        "Capital": [
+            "Nairobi"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English",
+            "Swahili"
+        ],
+        "Area": 580367.0,
+        "Population": 53771300,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Niue",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Niue",
+        "Common_Native_Name": "Niue",
+        "Currency_Code": "NZD",
+        "Currency_Name": "New Zealand dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+683",
+        "Capital": [
+            "Alofi"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Niuean"
+        ],
+        "Area": 260.0,
+        "Population": 1470,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Heard Island and McDonald Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Heard Island and McDonald Islands",
+        "Common_Native_Name": "Heard Island and McDonald Islands",
+        "Currency_Code": null,
+        "Currency_Name": null,
+        "Currency_Symbol": null,
+        "Country_Code": "",
+        "Capital": null,
+        "Region": "Antarctic",
+        "Subregion": null,
+        "Languages": [
+            "English"
+        ],
+        "Area": 412.0,
+        "Population": 0,
+        "Continents": [
+            "Antarctica"
+        ]
+    },
+    {
+        "Country_Name": "Rwanda",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Rwanda",
+        "Common_Native_Name": "Rwanda",
+        "Currency_Code": "RWF",
+        "Currency_Name": "Rwandan franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+250",
+        "Capital": [
+            "Kigali"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English",
+            "French",
+            "Kinyarwanda"
+        ],
+        "Area": 26338.0,
+        "Population": 12952209,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Estonia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Estonia",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+372",
+        "Capital": [
+            "Tallinn"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Estonian"
+        ],
+        "Area": 45227.0,
+        "Population": 1331057,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Romania",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Romania",
+        "Common_Native_Name": null,
+        "Currency_Code": "RON",
+        "Currency_Name": "Romanian leu",
+        "Currency_Symbol": "lei",
+        "Country_Code": "+40",
+        "Capital": [
+            "Bucharest"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Romanian"
+        ],
+        "Area": 238391.0,
+        "Population": 19286123,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Trinidad and Tobago",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Trinidad and Tobago",
+        "Common_Native_Name": "Trinidad and Tobago",
+        "Currency_Code": "TTD",
+        "Currency_Name": "Trinidad and Tobago dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1868",
+        "Capital": [
+            "Port of Spain"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 5130.0,
+        "Population": 1399491,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Guyana",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Co-operative Republic of Guyana",
+        "Common_Native_Name": "Guyana",
+        "Currency_Code": "GYD",
+        "Currency_Name": "Guyanese dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+592",
+        "Capital": [
+            "Georgetown"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "English"
+        ],
+        "Area": 214969.0,
+        "Population": 786559,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Timor-Leste",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Democratic Republic of Timor-Leste",
+        "Common_Native_Name": null,
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+670",
+        "Capital": [
+            "Dili"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Portuguese",
+            "Tetum"
+        ],
+        "Area": 14874.0,
+        "Population": 1318442,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Vietnam",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Socialist Republic of Vietnam",
+        "Common_Native_Name": null,
+        "Currency_Code": "VND",
+        "Currency_Name": "Vietnamese đồng",
+        "Currency_Symbol": "₫",
+        "Country_Code": "+84",
+        "Capital": [
+            "Hanoi"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Vietnamese"
+        ],
+        "Area": 331212.0,
+        "Population": 97338583,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Uruguay",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Oriental Republic of Uruguay",
+        "Common_Native_Name": null,
+        "Currency_Code": "UYU",
+        "Currency_Name": "Uruguayan peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+598",
+        "Capital": [
+            "Montevideo"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 181034.0,
+        "Population": 3473727,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Vatican City",
+        "Independence": true,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Vatican City State",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+390669879",
+        "Capital": [
+            "Vatican City"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Italian",
+            "Latin"
+        ],
+        "Area": 0.44,
+        "Population": 451,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Hong Kong",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Hong Kong Special Administrative Region of the People's Republic of China",
+        "Common_Native_Name": "Hong Kong",
+        "Currency_Code": "HKD",
+        "Currency_Name": "Hong Kong dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+852",
+        "Capital": [
+            "City of Victoria"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "English",
+            "Chinese"
+        ],
+        "Area": 1104.0,
+        "Population": 7500700,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Austria",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Austria",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+43",
+        "Capital": [
+            "Vienna"
+        ],
+        "Region": "Europe",
+        "Subregion": "Central Europe",
+        "Languages": [
+            "German"
+        ],
+        "Area": 83871.0,
+        "Population": 8917205,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Antigua and Barbuda",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Antigua and Barbuda",
+        "Common_Native_Name": "Antigua and Barbuda",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1268",
+        "Capital": [
+            "Saint John's"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 442.0,
+        "Population": 97928,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Turkmenistan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Turkmenistan",
+        "Common_Native_Name": null,
+        "Currency_Code": "TMT",
+        "Currency_Name": "Turkmenistan manat",
+        "Currency_Symbol": "m",
+        "Country_Code": "+993",
+        "Capital": [
+            "Ashgabat"
+        ],
+        "Region": "Asia",
+        "Subregion": "Central Asia",
+        "Languages": [
+            "Russian",
+            "Turkmen"
+        ],
+        "Area": 488100.0,
+        "Population": 6031187,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Mozambique",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Mozambique",
+        "Common_Native_Name": null,
+        "Currency_Code": "MZN",
+        "Currency_Name": "Mozambican metical",
+        "Currency_Symbol": "MT",
+        "Country_Code": "+258",
+        "Capital": [
+            "Maputo"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Portuguese"
+        ],
+        "Area": 801590.0,
+        "Population": 31255435,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Panama",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Panama",
+        "Common_Native_Name": null,
+        "Currency_Code": "PAB",
+        "Currency_Name": "Panamanian balboa",
+        "Currency_Symbol": "B/.",
+        "Country_Code": "+507",
+        "Capital": [
+            "Panama City"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 75417.0,
+        "Population": 4314768,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Micronesia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federated States of Micronesia",
+        "Common_Native_Name": "Micronesia",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+691",
+        "Capital": [
+            "Palikir"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "English"
+        ],
+        "Area": 702.0,
+        "Population": 115021,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Ireland",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Ireland",
+        "Common_Native_Name": "Ireland",
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+353",
+        "Capital": [
+            "Dublin"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "English",
+            "Irish"
+        ],
+        "Area": 70273.0,
+        "Population": 4994724,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Curaçao",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Country of Curaçao",
+        "Common_Native_Name": "Curaçao",
+        "Currency_Code": "ANG",
+        "Currency_Name": "Netherlands Antillean guilder",
+        "Currency_Symbol": "ƒ",
+        "Country_Code": "+599",
+        "Capital": [
+            "Willemstad"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English",
+            "Dutch",
+            "Papiamento"
+        ],
+        "Area": 444.0,
+        "Population": 155014,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "French Guiana",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Guiana",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+594",
+        "Capital": [
+            "Cayenne"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "French"
+        ],
+        "Area": 83534.0,
+        "Population": 254541,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Norway",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Norway",
+        "Common_Native_Name": null,
+        "Currency_Code": "NOK",
+        "Currency_Name": "Norwegian krone",
+        "Currency_Symbol": "kr",
+        "Country_Code": "+47",
+        "Capital": [
+            "Oslo"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Norwegian Nynorsk",
+            "Norwegian Bokmål",
+            "Sami"
+        ],
+        "Area": 323802.0,
+        "Population": 5379475,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Åland Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Åland Islands",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+35818",
+        "Capital": [
+            "Mariehamn"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Swedish"
+        ],
+        "Area": 1580.0,
+        "Population": 29458,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Central African Republic",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Central African Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "XAF",
+        "Currency_Name": "Central African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+236",
+        "Capital": [
+            "Bangui"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "French",
+            "Sango"
+        ],
+        "Area": 622984.0,
+        "Population": 4829764,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Burkina Faso",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Burkina Faso",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+226",
+        "Capital": [
+            "Ouagadougou"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 272967.0,
+        "Population": 20903278,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Eritrea",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "State of Eritrea",
+        "Common_Native_Name": "Eritrea",
+        "Currency_Code": "ERN",
+        "Currency_Name": "Eritrean nakfa",
+        "Currency_Symbol": "Nfk",
+        "Country_Code": "+291",
+        "Capital": [
+            "Asmara"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Arabic",
+            "English",
+            "Tigrinya"
+        ],
+        "Area": 117600.0,
+        "Population": 5352000,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Tanzania",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "United Republic of Tanzania",
+        "Common_Native_Name": "Tanzania",
+        "Currency_Code": "TZS",
+        "Currency_Name": "Tanzanian shilling",
+        "Currency_Symbol": "Sh",
+        "Country_Code": "+255",
+        "Capital": [
+            "Dodoma"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English",
+            "Swahili"
+        ],
+        "Area": 945087.0,
+        "Population": 59734213,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "South Korea",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Korea",
+        "Common_Native_Name": null,
+        "Currency_Code": "KRW",
+        "Currency_Name": "South Korean won",
+        "Currency_Symbol": "₩",
+        "Country_Code": "+82",
+        "Capital": [
+            "Seoul"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Korean"
+        ],
+        "Area": 100210.0,
+        "Population": 51780579,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Jordan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Hashemite Kingdom of Jordan",
+        "Common_Native_Name": null,
+        "Currency_Code": "JOD",
+        "Currency_Name": "Jordanian dinar",
+        "Currency_Symbol": "د.ا",
+        "Country_Code": "+962",
+        "Capital": [
+            "Amman"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 89342.0,
+        "Population": 10203140,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Mauritania",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Islamic Republic of Mauritania",
+        "Common_Native_Name": null,
+        "Currency_Code": "MRU",
+        "Currency_Name": "Mauritanian ouguiya",
+        "Currency_Symbol": "UM",
+        "Country_Code": "+222",
+        "Capital": [
+            "Nouakchott"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 1030700.0,
+        "Population": 4649660,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Lithuania",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Lithuania",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+370",
+        "Capital": [
+            "Vilnius"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "Lithuanian"
+        ],
+        "Area": 65300.0,
+        "Population": 2794700,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "United States Minor Outlying Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "United States Minor Outlying Islands",
+        "Common_Native_Name": "United States Minor Outlying Islands",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+268",
+        "Capital": [
+            "Washington DC"
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "English"
+        ],
+        "Area": 34.2,
+        "Population": 300,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Slovakia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Slovak Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+421",
+        "Capital": [
+            "Bratislava"
+        ],
+        "Region": "Europe",
+        "Subregion": "Central Europe",
+        "Languages": [
+            "Slovak"
+        ],
+        "Area": 49037.0,
+        "Population": 5458827,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Angola",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Angola",
+        "Common_Native_Name": null,
+        "Currency_Code": "AOA",
+        "Currency_Name": "Angolan kwanza",
+        "Currency_Symbol": "Kz",
+        "Country_Code": "+244",
+        "Capital": [
+            "Luanda"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "Portuguese"
+        ],
+        "Area": 1246700.0,
+        "Population": 32866268,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Kazakhstan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Kazakhstan",
+        "Common_Native_Name": null,
+        "Currency_Code": "KZT",
+        "Currency_Name": "Kazakhstani tenge",
+        "Currency_Symbol": "₸",
+        "Country_Code": "+767",
+        "Capital": [
+            "Nur-Sultan"
+        ],
+        "Region": "Asia",
+        "Subregion": "Central Asia",
+        "Languages": [
+            "Kazakh",
+            "Russian"
+        ],
+        "Area": 2724900.0,
+        "Population": 18754440,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Moldova",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Moldova",
+        "Common_Native_Name": null,
+        "Currency_Code": "MDL",
+        "Currency_Name": "Moldovan leu",
+        "Currency_Symbol": "L",
+        "Country_Code": "+373",
+        "Capital": [
+            "Chișinău"
+        ],
+        "Region": "Europe",
+        "Subregion": "Eastern Europe",
+        "Languages": [
+            "Romanian"
+        ],
+        "Area": 33846.0,
+        "Population": 2617820,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Mali",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Mali",
+        "Common_Native_Name": null,
+        "Currency_Code": "XOF",
+        "Currency_Name": "West African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+223",
+        "Capital": [
+            "Bamako"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "French"
+        ],
+        "Area": 1240192.0,
+        "Population": 20250834,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Falkland Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Falkland Islands",
+        "Common_Native_Name": "Falkland Islands",
+        "Currency_Code": "FKP",
+        "Currency_Name": "Falkland Islands pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+500",
+        "Capital": [
+            "Stanley"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "English"
+        ],
+        "Area": 12173.0,
+        "Population": 2563,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Armenia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Armenia",
+        "Common_Native_Name": null,
+        "Currency_Code": "AMD",
+        "Currency_Name": "Armenian dram",
+        "Currency_Symbol": "֏",
+        "Country_Code": "+374",
+        "Capital": [
+            "Yerevan"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Armenian"
+        ],
+        "Area": 29743.0,
+        "Population": 2963234,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Samoa",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Independent State of Samoa",
+        "Common_Native_Name": "Samoa",
+        "Currency_Code": "WST",
+        "Currency_Name": "Samoan tālā",
+        "Currency_Symbol": "T",
+        "Country_Code": "+685",
+        "Capital": [
+            "Apia"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Samoan"
+        ],
+        "Area": 2842.0,
+        "Population": 198410,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Jersey",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bailiwick of Jersey",
+        "Common_Native_Name": "Jersey",
+        "Currency_Code": "GBP",
+        "Currency_Name": "British pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+44",
+        "Capital": [
+            "Saint Helier"
+        ],
+        "Region": "Europe",
+        "Subregion": "Northern Europe",
+        "Languages": [
+            "English",
+            "French",
+            "Jèrriais"
+        ],
+        "Area": 116.0,
+        "Population": 100800,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Japan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Japan",
+        "Common_Native_Name": null,
+        "Currency_Code": "JPY",
+        "Currency_Name": "Japanese yen",
+        "Currency_Symbol": "¥",
+        "Country_Code": "+81",
+        "Capital": [
+            "Tokyo"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Japanese"
+        ],
+        "Area": 377930.0,
+        "Population": 125836021,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Bolivia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Plurinational State of Bolivia",
+        "Common_Native_Name": null,
+        "Currency_Code": "BOB",
+        "Currency_Name": "Bolivian boliviano",
+        "Currency_Symbol": "Bs.",
+        "Country_Code": "+591",
+        "Capital": [
+            "Sucre"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Aymara",
+            "Guaraní",
+            "Quechua",
+            "Spanish"
+        ],
+        "Area": 1098581.0,
+        "Population": 11673029,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Chile",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Chile",
+        "Common_Native_Name": null,
+        "Currency_Code": "CLP",
+        "Currency_Name": "Chilean peso",
+        "Currency_Symbol": "$",
+        "Country_Code": "+56",
+        "Capital": [
+            "Santiago"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 756102.0,
+        "Population": 19116209,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "United States",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "United States of America",
+        "Common_Native_Name": "United States",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1201202203205206207208209210212213214215216217218219220224225227228229231234239240248251252253254256260262267269270272274276281283301302303304305307308309310312313314315316317318319320321323325327330331334336337339346347351352360361364380385386401402404405406407408409410412413414415417419423424425430432434435440442443447458463464469470475478479480484501502503504505507508509510512513515516517518520530531534539540541551559561562563564567570571573574575580585586601602603605606607608609610612614615616617618619620623626628629630631636641646650651657660661662667669678681682701702703704706707708712713714715716717718719720724725727730731732734737740743747754757760762763765769770772773774775779781785786801802803804805806808810812813814815816817818828830831832843845847848850854856857858859860862863864865870872878901903904906907908909910912913914915916917918919920925928929930931934936937938940941947949951952954956959970971972973975978979980984985989",
+        "Capital": [
+            "Washington, D.C."
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "English"
+        ],
+        "Area": 9372610.0,
+        "Population": 329484123,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Saint Vincent and the Grenadines",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Saint Vincent and the Grenadines",
+        "Common_Native_Name": "Saint Vincent and the Grenadines",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1784",
+        "Capital": [
+            "Kingstown"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 389.0,
+        "Population": 110947,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Bermuda",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bermuda",
+        "Common_Native_Name": "Bermuda",
+        "Currency_Code": "BMD",
+        "Currency_Name": "Bermudian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1441",
+        "Capital": [
+            "Hamilton"
+        ],
+        "Region": "Americas",
+        "Subregion": "North America",
+        "Languages": [
+            "English"
+        ],
+        "Area": 54.0,
+        "Population": 63903,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Seychelles",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Seychelles",
+        "Common_Native_Name": "Seychelles",
+        "Currency_Code": "SCR",
+        "Currency_Name": "Seychellois rupee",
+        "Currency_Symbol": "₨",
+        "Country_Code": "+248",
+        "Capital": [
+            "Victoria"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Seychellois Creole",
+            "English",
+            "French"
+        ],
+        "Area": 452.0,
+        "Population": 98462,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "British Indian Ocean Territory",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "British Indian Ocean Territory",
+        "Common_Native_Name": "British Indian Ocean Territory",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+246",
+        "Capital": [
+            "Diego Garcia"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 60.0,
+        "Population": 3000,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Guatemala",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Guatemala",
+        "Common_Native_Name": null,
+        "Currency_Code": "GTQ",
+        "Currency_Name": "Guatemalan quetzal",
+        "Currency_Symbol": "Q",
+        "Country_Code": "+502",
+        "Capital": [
+            "Guatemala City"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 108889.0,
+        "Population": 16858333,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Ecuador",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Ecuador",
+        "Common_Native_Name": null,
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+593",
+        "Capital": [
+            "Quito"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 276841.0,
+        "Population": 17643060,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Martinique",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Martinique",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+596",
+        "Capital": [
+            "Fort-de-France"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "French"
+        ],
+        "Area": 1128.0,
+        "Population": 378243,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Tajikistan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Tajikistan",
+        "Common_Native_Name": null,
+        "Currency_Code": "TJS",
+        "Currency_Name": "Tajikistani somoni",
+        "Currency_Symbol": "ЅМ",
+        "Country_Code": "+992",
+        "Capital": [
+            "Dushanbe"
+        ],
+        "Region": "Asia",
+        "Subregion": "Central Asia",
+        "Languages": [
+            "Russian",
+            "Tajik"
+        ],
+        "Area": 143100.0,
+        "Population": 9537642,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Malta",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Malta",
+        "Common_Native_Name": "Malta",
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+356",
+        "Capital": [
+            "Valletta"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "English",
+            "Maltese"
+        ],
+        "Area": 316.0,
+        "Population": 525285,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Gambia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of the Gambia",
+        "Common_Native_Name": "Gambia",
+        "Currency_Code": "GMD",
+        "Currency_Name": "dalasi",
+        "Currency_Symbol": "D",
+        "Country_Code": "+220",
+        "Capital": [
+            "Banjul"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 10689.0,
+        "Population": 2416664,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Nigeria",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federal Republic of Nigeria",
+        "Common_Native_Name": "Nigeria",
+        "Currency_Code": "NGN",
+        "Currency_Name": "Nigerian naira",
+        "Currency_Symbol": "₦",
+        "Country_Code": "+234",
+        "Capital": [
+            "Abuja"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 923768.0,
+        "Population": 206139587,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Bahamas",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Commonwealth of the Bahamas",
+        "Common_Native_Name": "Bahamas",
+        "Currency_Code": "BSD",
+        "Currency_Name": "Bahamian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1242",
+        "Capital": [
+            "Nassau"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 13943.0,
+        "Population": 393248,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Kosovo",
+        "Independence": null,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Kosovo",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+383",
+        "Capital": [
+            "Pristina"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Albanian",
+            "Serbian"
+        ],
+        "Area": 10908.0,
+        "Population": 1775378,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Kuwait",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "State of Kuwait",
+        "Common_Native_Name": null,
+        "Currency_Code": "KWD",
+        "Currency_Name": "Kuwaiti dinar",
+        "Currency_Symbol": "د.ك",
+        "Country_Code": "+965",
+        "Capital": [
+            "Kuwait City"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic"
+        ],
+        "Area": 17818.0,
+        "Population": 4270563,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Maldives",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Republic of the Maldives",
+        "Common_Native_Name": null,
+        "Currency_Code": "MVR",
+        "Currency_Name": "Maldivian rufiyaa",
+        "Currency_Symbol": ".ރ",
+        "Country_Code": "+960",
+        "Capital": [
+            "Malé"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Maldivian"
+        ],
+        "Area": 300.0,
+        "Population": 540542,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "South Sudan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "Republic of South Sudan",
+        "Common_Native_Name": "South Sudan",
+        "Currency_Code": "SSP",
+        "Currency_Name": "South Sudanese pound",
+        "Currency_Symbol": "£",
+        "Country_Code": "+211",
+        "Capital": [
+            "Juba"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 619745.0,
+        "Population": 11193729,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Iran",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "saturday",
+        "Official_Country_Name": "Islamic Republic of Iran",
+        "Common_Native_Name": null,
+        "Currency_Code": "IRR",
+        "Currency_Name": "Iranian rial",
+        "Currency_Symbol": "﷼",
+        "Country_Code": "+98",
+        "Capital": [
+            "Tehran"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Persian (Farsi)"
+        ],
+        "Area": 1648195.0,
+        "Population": 83992953,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Albania",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Albania",
+        "Common_Native_Name": null,
+        "Currency_Code": "ALL",
+        "Currency_Name": "Albanian lek",
+        "Currency_Symbol": "L",
+        "Country_Code": "+355",
+        "Capital": [
+            "Tirana"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Albanian"
+        ],
+        "Area": 28748.0,
+        "Population": 2837743,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Brazil",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Federative Republic of Brazil",
+        "Common_Native_Name": null,
+        "Currency_Code": "BRL",
+        "Currency_Name": "Brazilian real",
+        "Currency_Symbol": "R$",
+        "Country_Code": "+55",
+        "Capital": [
+            "Brasília"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Portuguese"
+        ],
+        "Area": 8515767.0,
+        "Population": 212559409,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Serbia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Serbia",
+        "Common_Native_Name": null,
+        "Currency_Code": "RSD",
+        "Currency_Name": "Serbian dinar",
+        "Currency_Symbol": "дин.",
+        "Country_Code": "+381",
+        "Capital": [
+            "Belgrade"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southeast Europe",
+        "Languages": [
+            "Serbian"
+        ],
+        "Area": 88361.0,
+        "Population": 6908224,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Belize",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Belize",
+        "Common_Native_Name": "Belize",
+        "Currency_Code": "BZD",
+        "Currency_Name": "Belize dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+501",
+        "Capital": [
+            "Belmopan"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Belizean Creole",
+            "English",
+            "Spanish"
+        ],
+        "Area": 22966.0,
+        "Population": 397621,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Myanmar",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of the Union of Myanmar",
+        "Common_Native_Name": null,
+        "Currency_Code": "MMK",
+        "Currency_Name": "Burmese kyat",
+        "Currency_Symbol": "Ks",
+        "Country_Code": "+95",
+        "Capital": [
+            "Naypyidaw"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Burmese"
+        ],
+        "Area": 676578.0,
+        "Population": 54409794,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Bhutan",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Bhutan",
+        "Common_Native_Name": null,
+        "Currency_Code": "BTN",
+        "Currency_Name": "Bhutanese ngultrum",
+        "Currency_Symbol": "Nu.",
+        "Country_Code": "+975",
+        "Capital": [
+            "Thimphu"
+        ],
+        "Region": "Asia",
+        "Subregion": "Southern Asia",
+        "Languages": [
+            "Dzongkha"
+        ],
+        "Area": 38394.0,
+        "Population": 771612,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Venezuela",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Bolivarian Republic of Venezuela",
+        "Common_Native_Name": null,
+        "Currency_Code": "VES",
+        "Currency_Name": "Venezuelan bolívar soberano",
+        "Currency_Symbol": "Bs.S.",
+        "Country_Code": "+58",
+        "Capital": [
+            "Caracas"
+        ],
+        "Region": "Americas",
+        "Subregion": "South America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 916445.0,
+        "Population": 28435943,
+        "Continents": [
+            "South America"
+        ]
+    },
+    {
+        "Country_Name": "Liberia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Liberia",
+        "Common_Native_Name": "Liberia",
+        "Currency_Code": "LRD",
+        "Currency_Name": "Liberian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+231",
+        "Capital": [
+            "Monrovia"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 111369.0,
+        "Population": 5057677,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Jamaica",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Jamaica",
+        "Common_Native_Name": "Jamaica",
+        "Currency_Code": "JMD",
+        "Currency_Name": "Jamaican dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1876",
+        "Capital": [
+            "Kingston"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English",
+            "Jamaican Patois"
+        ],
+        "Area": 10991.0,
+        "Population": 2961161,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Poland",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Poland",
+        "Common_Native_Name": null,
+        "Currency_Code": "PLN",
+        "Currency_Name": "Polish złoty",
+        "Currency_Symbol": "zł",
+        "Country_Code": "+48",
+        "Capital": [
+            "Warsaw"
+        ],
+        "Region": "Europe",
+        "Subregion": "Central Europe",
+        "Languages": [
+            "Polish"
+        ],
+        "Area": 312679.0,
+        "Population": 37950802,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Cayman Islands",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Cayman Islands",
+        "Common_Native_Name": "Cayman Islands",
+        "Currency_Code": "KYD",
+        "Currency_Name": "Cayman Islands dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1345",
+        "Capital": [
+            "George Town"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 264.0,
+        "Population": 65720,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Brunei",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Nation of Brunei, Abode of Peace",
+        "Common_Native_Name": null,
+        "Currency_Code": "BND",
+        "Currency_Name": "Brunei dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+673",
+        "Capital": [
+            "Bandar Seri Begawan"
+        ],
+        "Region": "Asia",
+        "Subregion": "South-Eastern Asia",
+        "Languages": [
+            "Malay"
+        ],
+        "Area": 5765.0,
+        "Population": 437483,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Comoros",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Union of the Comoros",
+        "Common_Native_Name": null,
+        "Currency_Code": "KMF",
+        "Currency_Name": "Comorian franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+269",
+        "Capital": [
+            "Moroni"
+        ],
+        "Region": "Africa",
+        "Subregion": "Eastern Africa",
+        "Languages": [
+            "Arabic",
+            "French",
+            "Comorian"
+        ],
+        "Area": 1862.0,
+        "Population": 869595,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Guam",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Guam",
+        "Common_Native_Name": "Guam",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1671",
+        "Capital": [
+            "Hagåtña"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "Chamorro",
+            "English",
+            "Spanish"
+        ],
+        "Area": 549.0,
+        "Population": 168783,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Tonga",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Tonga",
+        "Common_Native_Name": "Tonga",
+        "Currency_Code": "TOP",
+        "Currency_Name": "Tongan paʻanga",
+        "Currency_Symbol": "T$",
+        "Country_Code": "+676",
+        "Capital": [
+            "Nuku'alofa"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Tongan"
+        ],
+        "Area": 747.0,
+        "Population": 105697,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Kiribati",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Independent and Sovereign Republic of Kiribati",
+        "Common_Native_Name": "Kiribati",
+        "Currency_Code": "AUD",
+        "Currency_Name": "Australian dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+686",
+        "Capital": [
+            "South Tarawa"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Micronesia",
+        "Languages": [
+            "English",
+            "Gilbertese"
+        ],
+        "Area": 811.0,
+        "Population": 119446,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Ghana",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Ghana",
+        "Common_Native_Name": "Ghana",
+        "Currency_Code": "GHS",
+        "Currency_Name": "Ghanaian cedi",
+        "Currency_Symbol": "₵",
+        "Country_Code": "+233",
+        "Capital": [
+            "Accra"
+        ],
+        "Region": "Africa",
+        "Subregion": "Western Africa",
+        "Languages": [
+            "English"
+        ],
+        "Area": 238533.0,
+        "Population": 31072945,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Chad",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Chad",
+        "Common_Native_Name": null,
+        "Currency_Code": "XAF",
+        "Currency_Name": "Central African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+235",
+        "Capital": [
+            "N'Djamena"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "Arabic",
+            "French"
+        ],
+        "Area": 1284000.0,
+        "Population": 16425859,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Zimbabwe",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Zimbabwe",
+        "Common_Native_Name": "Zimbabwe",
+        "Currency_Code": "ZWL",
+        "Currency_Name": "Zimbabwean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+263",
+        "Capital": [
+            "Harare"
+        ],
+        "Region": "Africa",
+        "Subregion": "Southern Africa",
+        "Languages": [
+            "Chibarwe",
+            "English",
+            "Kalanga",
+            "Khoisan",
+            "Ndau",
+            "Northern Ndebele",
+            "Chewa",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zimbabwean Sign Language"
+        ],
+        "Area": 390757.0,
+        "Population": 14862927,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Saint Martin",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Saint Martin",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+590",
+        "Capital": [
+            "Marigot"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "French"
+        ],
+        "Area": 53.0,
+        "Population": 38659,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Mongolia",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Mongolia",
+        "Common_Native_Name": null,
+        "Currency_Code": "MNT",
+        "Currency_Name": "Mongolian tögrög",
+        "Currency_Symbol": "₮",
+        "Country_Code": "+976",
+        "Capital": [
+            "Ulan Bator"
+        ],
+        "Region": "Asia",
+        "Subregion": "Eastern Asia",
+        "Languages": [
+            "Mongolian"
+        ],
+        "Area": 1564110.0,
+        "Population": 3278292,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "Portugal",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Portuguese Republic",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+351",
+        "Capital": [
+            "Lisbon"
+        ],
+        "Region": "Europe",
+        "Subregion": "Southern Europe",
+        "Languages": [
+            "Portuguese"
+        ],
+        "Area": 92090.0,
+        "Population": 10305564,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "American Samoa",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "American Samoa",
+        "Common_Native_Name": "American Samoa",
+        "Currency_Code": "USD",
+        "Currency_Name": "United States dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1684",
+        "Capital": [
+            "Pago Pago"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Polynesia",
+        "Languages": [
+            "English",
+            "Samoan"
+        ],
+        "Area": 199.0,
+        "Population": 55197,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Republic of the Congo",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of the Congo",
+        "Common_Native_Name": null,
+        "Currency_Code": "XAF",
+        "Currency_Name": "Central African CFA franc",
+        "Currency_Symbol": "Fr",
+        "Country_Code": "+242",
+        "Capital": [
+            "Brazzaville"
+        ],
+        "Region": "Africa",
+        "Subregion": "Middle Africa",
+        "Languages": [
+            "French",
+            "Kikongo",
+            "Lingala"
+        ],
+        "Area": 342000.0,
+        "Population": 5657000,
+        "Continents": [
+            "Africa"
+        ]
+    },
+    {
+        "Country_Name": "Belgium",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Kingdom of Belgium",
+        "Common_Native_Name": null,
+        "Currency_Code": "EUR",
+        "Currency_Name": "Euro",
+        "Currency_Symbol": "€",
+        "Country_Code": "+32",
+        "Capital": [
+            "Brussels"
+        ],
+        "Region": "Europe",
+        "Subregion": "Western Europe",
+        "Languages": [
+            "German",
+            "French",
+            "Dutch"
+        ],
+        "Area": 30528.0,
+        "Population": 11555997,
+        "Continents": [
+            "Europe"
+        ]
+    },
+    {
+        "Country_Name": "Israel",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "sunday",
+        "Official_Country_Name": "State of Israel",
+        "Common_Native_Name": null,
+        "Currency_Code": "ILS",
+        "Currency_Name": "Israeli new shekel",
+        "Currency_Symbol": "₪",
+        "Country_Code": "+972",
+        "Capital": [
+            "Jerusalem"
+        ],
+        "Region": "Asia",
+        "Subregion": "Western Asia",
+        "Languages": [
+            "Arabic",
+            "Hebrew"
+        ],
+        "Area": 20770.0,
+        "Population": 9216900,
+        "Continents": [
+            "Asia"
+        ]
+    },
+    {
+        "Country_Name": "New Zealand",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "New Zealand",
+        "Common_Native_Name": "New Zealand",
+        "Currency_Code": "NZD",
+        "Currency_Name": "New Zealand dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+64",
+        "Capital": [
+            "Wellington"
+        ],
+        "Region": "Oceania",
+        "Subregion": "Australia and New Zealand",
+        "Languages": [
+            "English",
+            "Māori",
+            "New Zealand Sign Language"
+        ],
+        "Area": 270467.0,
+        "Population": 5084300,
+        "Continents": [
+            "Oceania"
+        ]
+    },
+    {
+        "Country_Name": "Nicaragua",
+        "Independence": true,
+        "UN_Member": true,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Republic of Nicaragua",
+        "Common_Native_Name": null,
+        "Currency_Code": "NIO",
+        "Currency_Name": "Nicaraguan córdoba",
+        "Currency_Symbol": "C$",
+        "Country_Code": "+505",
+        "Capital": [
+            "Managua"
+        ],
+        "Region": "Americas",
+        "Subregion": "Central America",
+        "Languages": [
+            "Spanish"
+        ],
+        "Area": 130373.0,
+        "Population": 6624554,
+        "Continents": [
+            "North America"
+        ]
+    },
+    {
+        "Country_Name": "Anguilla",
+        "Independence": false,
+        "UN_Member": false,
+        "Start_of_Week": "monday",
+        "Official_Country_Name": "Anguilla",
+        "Common_Native_Name": "Anguilla",
+        "Currency_Code": "XCD",
+        "Currency_Name": "Eastern Caribbean dollar",
+        "Currency_Symbol": "$",
+        "Country_Code": "+1264",
+        "Capital": [
+            "The Valley"
+        ],
+        "Region": "Americas",
+        "Subregion": "Caribbean",
+        "Languages": [
+            "English"
+        ],
+        "Area": 91.0,
+        "Population": 13452,
+        "Continents": [
+            "North America"
+        ]
+    }
+]
