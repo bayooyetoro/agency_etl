@@ -26,6 +26,8 @@ def setup_logger(name:str, log_file:str, filemode:str ='a', level=logging.INFO):
         :param log_file: File to log messages.
         :param file_mode: mode of saving (default: append)
         :param level: Logging level (default: logging.INFO).
+
+        : return: logger
     """
     formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s', 
                                   datefmt='%Y-%m-%d %H:%M:%S')
@@ -54,14 +56,12 @@ def get_data(url, file_name):
         json.dump(raw_data, file, indent=4)
 
 
-def extract_countries_data(json_file_path):
+def extract_countries_data(json_file_path) -> None:
     """
     Extracts specific columns from a JSON file containing country data.
 
     :param json_file_path: The path to the JSON file.
-
-    Returns: A list of dictionaries, where each dictionary represents a country
-             and contains the extracted data.  Returns an empty list if there's an error.
+    : return: None
     """
 
     with open(json_file_path, 'r', encoding='utf-8') as f:
@@ -120,7 +120,14 @@ def extract_countries_data(json_file_path):
     df.to_csv("./data/extracted_data.csv")
 
 
-def load_data_to_db(csv_file_path):
+def load_data_to_db(csv_file_path) -> None:
+    """
+    This function load the extracted csv into postgreSQL DB table called 'countries'
+
+    :param csv_file_path: The path to the csv file.
+
+    returns: None
+    """
     df = pd.read_csv(csv_file_path)
 
     def safe_eval(val):
@@ -133,7 +140,7 @@ def load_data_to_db(csv_file_path):
     df['Capital'] = df['Capital'].apply(lambda x: safe_eval(x) if pd.notna(x) else x)
     df['Languages'] = df['Languages'].apply(lambda x: safe_eval(x) if pd.notna(x) else x)
     df['Continents'] = df['Continents'].apply(lambda x: safe_eval(x) if pd.notna(x) else x)
-    
+
     # Create a SQLAlchemy engine for PostgreSQL
     engine = create_engine(f'postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}')
 
