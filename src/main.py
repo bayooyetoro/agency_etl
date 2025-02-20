@@ -1,14 +1,14 @@
 from utils import *
-import json
 
-# setting up logger
+
+# set up logger
 logger = setup_logger("my_logger", "main.log", filemode='w')
 
-url = "https://restcountries.com/v3.1/all"
 
 # file paths
 json_file_name = "./data/raw_data.json"
 csv_file_path = "./data/extracted_data.csv"
+url = "https://restcountries.com/v3.1/all"
 
 
 def main():
@@ -20,11 +20,13 @@ def main():
         extract_countries_data(json_file_name)
 
         logger.info("Extraction Completed! Transforming and loading to DB...")
-
+        load_data_to_db(csv_file_path)
+        
+        logger.info("Data Loaded Successfully!")
 
 
     except Exception as e:
-        logger.error(f"Error Occured:{e}")
+        logger.error(f"Error Occured: {e}")
 
 
 if __name__ == "__main__":

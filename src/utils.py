@@ -2,6 +2,20 @@ import pandas as pd
 import json
 import requests
 import logging
+import os
+import ast
+from sqlalchemy import create_engine
+from dotenv import load_dotenv
+
+
+load_dotenv()
+
+# Retrieve database connection info from environment variables
+DB_NAME = os.getenv('POSTGRES_DB')
+DB_USER = os.getenv('POSTGRES_USER')
+DB_PASSWORD = os.getenv('POSTGRES_PASSWORD')
+DB_HOST = 'localhost'  # Update as needed
+DB_PORT = '5432'
 
 
 def setup_logger(name:str, log_file:str, filemode:str ='a', level=logging.INFO):
@@ -106,10 +120,22 @@ def extract_countries_data(json_file_path):
     df.to_csv("./data/extracted_data.csv")
 
 
+def load_data_to_db(csv_file_path):
+    df = pd.read_csv(csv_file_path)
 
+    def safe_eval(val):
+        try:
+            return ast.literal_eval(val)
+        except (ValueError, SyntaxError):
+            return val
 
+    # Convert string representations of lists to actual lists, handling NaN values
+    df['Capital'] = df['Capital'].apply(lambda x: safe_eval(x) if pd.notna(x) else x)
+    df['Languages'] = df['Languages'].apply(lambda x: safe_eval(x) if pd.notna(x) else x)
+    df['Continents'] = df['Continents'].apply(lambda x: safe_eval(x) if pd.notna(x) else x)
+    
+    # Create a SQLAlchemy engine for PostgreSQL
+    engine = create_engine(f'postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}')
 
-
-        
-
-        
+    # Write DataFrame to PostgreSQL database table
+    df.to_sql('countries', engine, if_exists='replace', index=False)
